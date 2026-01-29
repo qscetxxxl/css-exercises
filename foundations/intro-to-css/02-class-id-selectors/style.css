@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.redone { background-color: red;
+font-family: Verdana, "DejaVu Sans",sans-serif;}
+#blue36 {color: blue;
+font-size: 36px;}
+.px24 { font-size: 24px;}
+#greenbold {background-color: green;
+font-weight:bold ;}
